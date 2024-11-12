@@ -4,7 +4,7 @@
 * Purpose:  reads the names within files
 * Name: get_names
 * Parameters: yalew.txt, nweke.txt, isaacman.txt
-* Return: names_list
+* Return: all_names
 * Algorithm:
 1. Define an empty list with a name like "all_names"
 2. Open the text files containing the guests
@@ -14,10 +14,10 @@
 5. close the text files
 6. return "all_names"
 
-* Purpose:  assigns the seats for each guest by putting them in lists
+* Purpose:  assigns the seats for each guest
 * Name: assign_seats
 * Parameters: all_names
-* Return: each table as a list
+* Return: output statement of names
 * Algorithm:
 1. assign a variable with a name like "table_count" to a value of zero
 2. assign another variable with a name like "seat_count" to a value of one

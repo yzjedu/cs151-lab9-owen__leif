@@ -19,8 +19,24 @@
 * Parameters: all_names
 * Return: each table as a list
 * Algorithm:
-1. assign a variable with a name like "count_adder" to a value of zero
-2. 
+1. assign a variable with a name like "table_count" to a value of zero
+2. assign another variable with a name like "seat_count" to a value of one
+3. assign a third variable with a name like "list_position" to a value of zero
 3. for each name in list all_names:
-    1. 
-   2. 
+    1. if "list_position" when divided by five has a remainder of exactly zero:
+         1. add 1 to the current value of "table_count"
+       2. set "seat_count" equal to 1
+    2. print 25 tildes
+   3. print the table count, seat count, and name of the person occupying the seat
+   4. print 25 tildes
+   5. add 1 to the current value of "list_position"
+   6. add 1 to the current value of "seat_count"
+   
+* Purpose:  runs the main function
+* Name: main
+* Parameters: none
+* Return: nothing
+* Algorithm:
+1. run "get_names"
+2. run "assign_seats"
+

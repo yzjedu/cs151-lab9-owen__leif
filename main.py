@@ -11,31 +11,23 @@
 # Purpose:  reads the names within files
 # Parameters: yalew.txt, nweke.txt, isaacman.txt
 # Return: all_names
-def get_names(yalew.txt, nweke.txt, isaacman.txt):
+
+def get_names(filename):
     # creates an empty list to fill in with names
-    all_names = []
-    # opens and fills all_names with items from yalew.txt
-    yalew_data = open(yalew.txt, 'r')
-    for name in yalew_data:
+    global all_names
+    # opens and fills all_names with items from the desired text file
+    file_data = open(filename)
+    for name in file_data:
         all_names.append(name)
-    yalew_data.close()
-    # opens and fills all_names with items from nweke.txt
-    nweke_data = open(nweke.txt, 'r')
-    for name in nweke_data:
-        all_names.append(name)
-    nweke_data.close()
-    # opens and fills all_names with items from isaacman.txt
-    isaacman_data = open(isaacman.txt, 'r')
-    for name in isaacman_data:
-        all_names.append(name)
-    isaacman_data.close()
+    file_data.close()
     return all_names
 
 # Purpose:  assigns the seats for each guest
 # Parameters: all_names
 # Return: output statement of names
-def assign_seats(all_names):
+def assign_seats():
     # presets variables intrinsic to code
+    global all_names
     table_count = 0
     seat_count = 1
     list_position = 0
@@ -53,11 +45,19 @@ def assign_seats(all_names):
         list_position += 1
         seat_count += 1
 
-# Purpose:  runs main function
-# Parameters:
-# Return:
-def main():
-    get_names(yalew.txt, nweke.txt, isaacman.txt)
-    assign_seats(all_names)
+all_names = []
+passthru = False
+while not passthru:
+    file_name = input('Enter the name of the desired .txt file:\nPlease express the name without the .txt extension: ')
+    if file_name == 'yalew':
+        passthru = True
+    elif file_name == 'isaacman':
+        passthru = True
+    elif file_name == 'nweke':
+        passthru = True
+    else:
+        print('File could not be found. Try again\nEnter it EXACTLY as it is. Case sensetive\n')
+get_names(f'{file_name}.txt')
+assign_seats()
 
 

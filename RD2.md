@@ -1,22 +1,21 @@
-ENCRYPTED:
-# Tghngevkqp Fqewogpv
+# Reflection Document
 
-* Ftkxg Hwnn Pcog  : Ngkh NcDkcpec
-* Rctvpgt Hwnn Pcog: Qygp Ucpejgb
-* Uvwfgpv KF: 1928607
+* Drive Full Name  : Leif LaBianca
+* Partner Full Name: Owen Sanchez
+* Student ID: 1928607
 
-Kp vjku ncd, yg ygtg vcumgf ykvj etgcvkpi c rtqitco vjcv eqwnf tgcf c ikxgp .vzv hkng cpf etgcvg c ugcvkpi ejctv hqt hkxg-rgtuqp vcdngu dcugf qp vjg nkuv.
-Kp eqorngvkpi vjku vcum, yg ytguvngf gzvgpukxgna ykvj yqtmkpi ykvj gzvgtpcn hkngu cpf eqttgev korqtvcvkqp qh xctkcdngu dgvyggp hwpevkqpu.
-Vjg rtqeguu kpxqnxgf ocrrkpi qwv vjg uvctv cpf gpf qh vjg rtqlgev cpf vjgp vtakpi  vq hkiwtg qwv vjg pgeguucta uvgru kp qtfgt vq ocmg vjg gpfu oggv.
-Qpeg vjku ycu fqpg, yg wugf rtkoctkna rtgtgswkukvg mpqyngfig qh xctkcdng korqtvkpi cpf gzrqtvkpi xctkcdngu, etgcvkpi cpf gfkvkpi nkuvu, cpf wukpi fcvc ykvjkp gzvgtpcn hkngu.
-Vjg tguwnvu ygtgp'v gzcevna yjcv K cpvkekrcvgf vjgo vq dg kp vjg gpf. K wnvkocvgna jcf vq kortqxkbg, cu K eqwnf pqv igv uqog qh vjg gngogpvu qh oa eqfg, ockpna xctkcdng gzrqtvcvkqp, vq yqtm ykvjqwv vjgo.
-Vjg ockp ejcnngpig ecog htqo vtakpi vq crrna nguuqpu htqo yjgp K eqwnf pqv rjaukecnna dg kp encuu fwg vq dgkpi knn. Vjku ecp kp vjg hqto qh hkiwtkpi qwv wukpi gzvgtpcn hkngu.
-Kp vjg gpf, K ocpcigf vq hkiwtg kv qwv da dcemvtcemkpi vjtqwij vjg encuu pqvgu cpf hqnnqykpi vjg gzcorngu kp vjg "encuu eqfg" qp IkvJwd.
-C mga vcmgcyca hqt og ycu lwuv pqv vq dg chtckf pqv vq dcemvtcem qt swguvkqpu aqwtugnh. Igpgtcnna aqw fqp'v mpqy vjg cpuygtu koogfkcvgna, uq aqw pggf vq tghtguj aqwtugnh.
-K'f nkmg vq vjkpm K ngctpgf yjcv K ycu uwrrqugf vq, dwv kp vtwvj, pggfkpi vq kortqxkbg vq eqog vq vjg gpf uqnwvkqp okijv ogcp vjcv K fkfp'v.
-Oa rctvpgt, cu vjga fkf hqt ncd 6, fkf pqv fq cpa yqtm qp vjku rtqlgev. Cnn vjg eqfkpi cpf ytkvkpi ycu rgthqtogf uqngna da og wr vq vjku rqkpv.
-Vjku ycu qdxkqwuna htwuvtcvkpi, dgecwug vjku rctvkewnct cuukipogpv ku korcevhwn qp oa itcfg kp c yca vjcv vjg qvjgtu jcxgp'v dggp, rqvgpvkcnna tkijvkpi c ytqpi kp oa itcfgdqqm, ktqpkecnna dgkpi vjg qvjgt ncd K yqtmgf qp ykvj vjku ucog rctvpgt.
-Vjku kup'v vjg hktuv vkog vjku jcu jcrrgpgf, cu K jcf c ukoknct gzrgtkgpeg yqtmkpi ykvj Ogicp Yklfqqigp, dwv vjku vkog kv hggnu rctvkewnctna htwuvtcvkpi fwg vq vjg uvcmgu.
+In this lab, we were tasked with creating a program that could read a given .txt file and create a seating chart for five-person tables based on the list.
+In completing this task, we wrestled extensively with working with external files and correct importation of variables between functions.
+The process involved mapping out the start and end of the project and then trying  to figure out the necessary steps in order to make the ends meet.
+Once this was done, we used primarily prerequisite knowledge of variable importing and exporting variables, creating and editing lists, and using data within external files.
+The results weren't exactly what I anticipated them to be in the end. I ultimately had to improvize, as I could not get some of the elements of my code, mainly variable exportation, to work without them.
+The main challenge came from trying to apply lessons from when I could not physically be in class due to being ill. This can in the form of figuring out using external files.
+In the end, I managed to figure it out by backtracking through the class notes and following the examples in the "class code" on GitHub.
+A key takeaway for me was just not to be afraid not to backtrack or questions yourself. Generally you don't know the answers immediately, so you need to refresh yourself.
+I'd like to think I learned what I was supposed to, but in truth, needing to improvize to come to the end solution might mean that I didn't.
+My partner, as they did for lab 6, did not do any work on this project. All the coding and writing was performed solely by me up to this point.
+This was obviously frustrating, because this particular assignment is impactful on my grade in a way that the others haven't been, potentially righting a wrong in my gradebook, ironically being the other lab I worked on with this same partner.
+This isn't the first time this has happened, as I had a similar experience working with Megan Wijdoogen, but this time it feels particularly frustrating due to the stakes.
 
 
 
